@@ -258,7 +258,7 @@ function App() {
               </div>
 
               <div className="text-center text-white/70 pb-6">
-                <p>© 2024 AI Academy - Apprends en t'amusant ! 🎓✨</p>
+                <p>© 2025 AI Academy - Apprends en t'amusant ! 🎓✨</p>
               </div>
             </>
           )}

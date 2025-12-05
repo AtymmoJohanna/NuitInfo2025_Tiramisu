@@ -10,7 +10,7 @@ const LearningHomePage = ({ onStart }) => {
         <div className="text-center mb-12 pt-8">
           <div className="inline-block bg-white/10 backdrop-blur-lg rounded-full px-6 py-3 mb-6">
             <Brain className="inline-block w-10 h-10 text-yellow-300 mr-3" />
-            <span className="text-white font-bold text-2xl">IA Academy</span>
+            <span className="text-white font-bold text-2xl">AI Academy</span>
           </div>
           <h1 className="text-5xl md:text-6xl font-bold text-white mb-4">
             Apprends l&apos;Intelligence Artificielle
